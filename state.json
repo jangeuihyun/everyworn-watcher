@@ -1,6 +1,6 @@
 {
   "consecutive_failures": 0,
-  "last_change": "2026-10-26 20:40 KST",
+  "last_change": "2026-10-26 22:54 KST",
   "products": {
     "288": {
       "name": "Flannel Relaxed Curve Shirt (Green)",
@@ -9,7 +9,7 @@
         "1(95)": false,
         "2(100)": true,
         "3(105)": true,
-        "4(110)": true
+        "4(110)": false
       }
     }
   },
